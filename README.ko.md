@@ -157,6 +157,7 @@ Xstl DNS는 안정적인 서비스를 제공하기 위해 최선을 다하고 �
 - algolia.com
 - aluigi.altervista.org
 - media.discordapp.net
+- git.zx2c4.com
 
 #### Exceptions
 

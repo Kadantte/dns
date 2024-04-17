@@ -153,6 +153,7 @@ Some domain names are allowed forcibly by default to avoid incorrect blocking:
 - algolia.com
 - aluigi.altervista.org
 - media.discordapp.net
+- git.zx2c4.com
 
 #### Exceptions
 
